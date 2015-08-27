@@ -35,3 +35,4 @@ git pull origin master
 
 #Look up merge
 
+git clone sourceAddress
