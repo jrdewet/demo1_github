@@ -6,3 +6,9 @@ git status
 git add <fileName>
 
 git commit -m "This is the first commit of my git commands file"
+
+git add commandsGit.txt ToDo
+
+git commit -m "Second commit, with 2nd file included"
+
+git log #shows history of commands
