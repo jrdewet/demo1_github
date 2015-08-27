@@ -1,3 +1,8 @@
+git config --global user.name "Jeffrey R. de Wet"
+git config --global user.email "jrdewet@umich.edu"
+
 git status
 
 git add <fileName>
+
+git commit -m "This is the first commit of my git commands file"
